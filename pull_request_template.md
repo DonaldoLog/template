@@ -1,8 +1,10 @@
 # Detalles
 Detalles del pull
 
-# Que afecta
+# Mejoras
+Mejoras del pull
 
+# Que afecta
  - [ ] Backnend
  - [ ] Frontend
 
